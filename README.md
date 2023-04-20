@@ -4,7 +4,4 @@
 
 ## Home Page & Nature Page
 
-![](https://github.com/wen3999/project_demo/public/home_nature.gif)
-
-commandline to run json-server:
-`$ json-server --watch db.json -p 3001 -d 2000`
+![](https://github.com/wen3999/project_demo/blob/main/public/home_nature.gif)
