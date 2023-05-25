@@ -29,4 +29,8 @@ Frontend using Java, JSON, Android Lifecycle, and Android Studio for Android app
 Data from Ticketmaster API, Google Maps API, Google Geocoding API, Ipinfo API, Spotify API, Facebook API, Twitter API, and Android SDK.
 Host on Google Cloud Platform.
 
-![](https://github.com/wen3999/project_demo/blob/main/public/9_1.gif)![](https://github.com/wen3999/project_demo/blob/main/public/9_2.gif)![](https://github.com/wen3999/project_demo/blob/main/public/9_3.gif)
+<p>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/9_1.gif" width="33%"></img>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/9_2.gif" width="33%"></img>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/9_3.gif" width="33%"></img>
+</p>
