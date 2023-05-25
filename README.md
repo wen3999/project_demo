@@ -1,32 +1,38 @@
 # project_demo
 
-## Project 1
 
-Two web pages (home.html and nature.html) using HTML and CSS.
+## 1. Android App Events Search
+
+<p>Backend using JavaScript/Node.js with Express framework.</p>
+<p>Frontend using Java, JSON, Android Lifecycle, and Android Studio for Android app development.</p>
+<p>Data from Ticketmaster API, Google Maps API, Google Geocoding API, Ipinfo API, Spotify API, Facebook API, Twitter API, and Android SDK.</p>
+<p>Host on Google Cloud Platform.</p>
+
+<p>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/9_1.gif" width="33%"></img>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/9_2.gif" width="33%"></img>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/9_3.gif" width="33%"></img>
+</p>
+
+
+## 2. Web App Events Search II
+
+<p>Backend using JavaScript/Node.js with Express framework.</p>
+<p>Responsive frontend using Angular, TypeScript, Bootstrap, and HttpClientModule of Angular for AJAX.</p>
+<p>Data from Ticketmaster API, Google Maps API, Google Geocoding API, Ipinfo API, Spotify API, Facebook API, and Twitter API.</p>
+<p>Host on Google Cloud Platform.</p>
+
+
+## 3. Web App Events Search I
+
+<p>Backend using Python with Flask framework.</p>
+<p>Frontend using HTML, CSS, JavaScript, DOM, JSON format, and the XMLHttpRequest object for AJAX.</p>
+<p>Data from Google API, and Ticketmaster API.</p>
+<p>Host on Google Cloud Platform.</p>
+
+
+## 4. Home and Nature Website
+
+<p>Two web pages (home.html and nature.html) using HTML and CSS.</p>
 
 ![](https://github.com/wen3999/project_demo/blob/main/public/3.gif)
-
-## Project 2
-
-Backend using Python with Flask framework.
-Frontend using HTML, CSS, JavaScript, DOM, JSON format, and the XMLHttpRequest object for AJAX.
-Data from Google API, and Ticketmaster API.
-Host on Google Cloud Platform.
-
-
-## Project 3
-
-Backend using JavaScript/Node.js with Express framework.
-Responsive frontend using Angular, TypeScript, Bootstrap, and HttpClientModule of Angular for AJAX.
-Data from Ticketmaster API, Google Maps API, Google Geocoding API, Ipinfo API, Spotify API, Facebook API, and Twitter API.
-Host on Google Cloud Platform.
-
-
-## Project 4
-
-Backend using JavaScript/Node.js with Express framework.
-Frontend using Java, JSON, Android Lifecycle, and Android Studio for Android app development.
-Data from Ticketmaster API, Google Maps API, Google Geocoding API, Ipinfo API, Spotify API, Facebook API, Twitter API, and Android SDK.
-Host on Google Cloud Platform.
-
-![](https://github.com/wen3999/project_demo/blob/main/public/9_1.gif)![](https://github.com/wen3999/project_demo/blob/main/public/9_2.gif)![](https://github.com/wen3999/project_demo/blob/main/public/9_3.gif)
