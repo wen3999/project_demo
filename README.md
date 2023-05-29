@@ -30,6 +30,8 @@
 <p>Data from Google API, and Ticketmaster API.</p>
 <p>Host on Google Cloud Platform.</p>
 
+![](https://github.com/wen3999/project_demo/blob/main/public/6.gif)
+
 
 ## 4. Home and Nature Website
 
