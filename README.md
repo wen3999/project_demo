@@ -1,4 +1,4 @@
-# project_demo
+# Jinwen Lin - project_demo
 
 
 ## 1. Android App Events Search
