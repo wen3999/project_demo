@@ -22,7 +22,10 @@
 <p>Data from Ticketmaster API, Google Maps API, Google Geocoding API, Ipinfo API, Spotify API, Facebook API, and Twitter API.</p>
 <p>Host on Google Cloud Platform.</p>
 
-![](https://github.com/wen3999/project_demo/blob/main/public/8_1.gif)
+<p>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/8_1.gif" width="70%"></img>
+  <img src="https://github.com/wen3999/project_demo/blob/main/public/8_2.gif" width="30%"></img>
+</p>
 
 
 ## 3. Web App Events Search I
